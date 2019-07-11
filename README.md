@@ -12,11 +12,11 @@ Will download Stupidity and your repository code from dayXX. You can also use it
 * Test with Stupidity
 
 Warning: Maybe you need add execute rights before execute it:
->chmod +x towel.sh
+>chmod +x velho.sh
 
 Usage example (./towel.sh DD)
-> ./towel.sh 03
+> ./velho.sh 03
 
 ___
 
-Towel for 42 Hive Helsinki
+Towel for Hive Helsinki
