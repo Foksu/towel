@@ -19,4 +19,4 @@ Usage example (./towel.sh DD)
 
 ___
 
-Towel for 42 School Silicon Valley
+Towel for 42 Hive Helsinki
