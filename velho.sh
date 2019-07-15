@@ -59,7 +59,7 @@ if [ -d "day$1" ]; then
 	else
 		git clone vogsphere@vogsphere.hive.fi:intra/2019/activities/piscine_c_day_$1/$USER day$1
 fi
-ln -s /tmp/toweltmp/day$1 $full_path
+ln -s /Users/$USERS/day$1 $full_path
 ./spawn.pl day$1 config_d$1.pl
 ./tools/build.sh
 ./tools/verify.sh
