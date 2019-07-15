@@ -40,7 +40,8 @@ if git fetch | grep --quiet 'master'
 		display_usage
 		exit 0
 	fi 
-cd /tmp
+#cd /tmp
+cd Users/$USER/velho
 if [ -d "toweltmp" ]; then
   # Control will enter here if $DIRECTORY exists.
   		cd toweltmp
